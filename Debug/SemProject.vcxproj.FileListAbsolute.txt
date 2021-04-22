@@ -1,0 +1,2 @@
+C:\Coding Things\SemProject\Debug\SemProject.exe
+C:\Coding Things\SemProject\Debug\SemProject.pdb

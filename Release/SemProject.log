@@ -1,0 +1,120 @@
+﻿  Main.cpp
+C:\Coding Things\SemProject\Image.h(14,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Coding Things\SemProject\Game.h(33,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Coding Things\SemProject\Game.h(58,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Coding Things\SemProject\Game.h(59,83): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Coding Things\SemProject\Game.h(59,49): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Coding Things\SemProject\Game.h(61,87): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Coding Things\SemProject\Game.h(61,53): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Coding Things\SemProject\Game.h(65,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Coding Things\SemProject\Game.h(66,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Coding Things\SemProject\Game.h(67,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Coding Things\SemProject\Game.h(68,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Coding Things\SemProject\Game.h(69,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Coding Things\SemProject\Game.h(70,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Coding Things\SemProject\Game.h(71,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Coding Things\SemProject\Game.h(73,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Coding Things\SemProject\Game.h(74,58): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Coding Things\SemProject\Game.h(75,56): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Coding Things\SemProject\Game.h(76,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Coding Things\SemProject\Game.h(135,39): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Coding Things\SemProject\Game.h(135,36): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Coding Things\SemProject\Game.h(145,118): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Coding Things\SemProject\Game.h(145,59): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Coding Things\SemProject\Game.h(151,117): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Coding Things\SemProject\Game.h(151,58): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Coding Things\SemProject\Game.h(157,111): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Coding Things\SemProject\Game.h(157,55): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Coding Things\SemProject\Game.h(163,111): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Coding Things\SemProject\Game.h(163,55): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Coding Things\SemProject\Game.h(169,111): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Coding Things\SemProject\Game.h(169,55): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Coding Things\SemProject\Game.h(259,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Coding Things\SemProject\Game.h(261,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Coding Things\SemProject\Game.h(289,51): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Coding Things\SemProject\Game.h(290,1): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Coding Things\SemProject\Game.h(303,20): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Coding Things\SemProject\Game.h(310,87): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Coding Things\SemProject\Game.h(310,53): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  Generating code
+  1 of 145 functions ( 0.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  SemProject.vcxproj -> C:\Coding Things\SemProject\Release\SemProject.exe
